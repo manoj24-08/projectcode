@@ -2,7 +2,7 @@ import axios from "axios";
 
 // 🔥 CHANGE THIS to your backend deployed URL
 const API = axios.create({
-  baseURL: "http://fullstackproject-production-dca9.up.railway.app/api", 
+  baseURL: "http://fullstackproject-production-6105.up.railway.app/api", 
   // example:
   // baseURL: "https://your-backend.up.railway.app/api"
 });
